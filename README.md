@@ -282,10 +282,10 @@ Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 😊 
 1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/paskok25/learn-git-milestones/edit/main/README.md)
-1c | Link to markdown tables docs | [Markdown Tables Link](https://www.makeuseof.com/tag/create-markdown-table/)
+1c | Link to markdown tables docs | [Markdown Tables Link](https://github.com/paskok25/learn-git-milestones/commit/c6617f14ef6b43f29b2adbc4103dbbe9cb6985d7)
 1d | What does `log` do? | According to the help page, 'log' shows commit logs.
 2a | 2nd Favorite emoji | 🤙
-2b | Link to `commit #2 from Github Desktop` |
+2b | Link to `commit #2 from Github Desktop` | [Second Commit Link](https://github.com/paskok25/learn-git-milestones/commit/b91689a81f942796d36414314814102997f7cda8)
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
