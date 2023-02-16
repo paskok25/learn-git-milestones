@@ -291,7 +291,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | 😤
 2f | Link to `commit #4 from VS Code` | [Fourth Commit Link](https://github.com/paskok25/learn-git-milestones/commit/9b113ad05d116cae5909d844382a0dc99ffcead5)
 3a | Link to `my-awesome-project` github.com repo page | [Awesome Github Link](https://github.com/paskok25/my-awesome-project)
-4a | Link to `my-awesome-project` github.io "project site" |
+4a | Link to `my-awesome-project` github.io "project site" | [Awesome Project Link](https://paskok25.github.io/my-awesome-project/)
 
 
 
