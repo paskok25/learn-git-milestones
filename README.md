@@ -289,7 +289,7 @@ Item # | Description | Completed
 2c | Full path to your working directory | /Users/pskok21/Desktop/Me/Work/College/Davidson/Sophmore(22'-23')/Spring/DIG 250/Learning Git
 2d | Link to `commit #3 from CLI` | [Third Commit Link](https://github.com/paskok25/learn-git-milestones/commit/eb206347cc8a56797313a8bb2e3310152afc3c17)
 2e | 3rd Favorite emoji | 😤
-2f | Link to `commit #4 from VS Code` |
+2f | Link to `commit #4 from VS Code` | [Fourth Commit Link](https://github.com/paskok25/learn-git-milestones/commit/9b113ad05d116cae5909d844382a0dc99ffcead5)
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 
